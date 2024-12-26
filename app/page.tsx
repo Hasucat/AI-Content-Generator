@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h2>Alif Hasnain!</h2>
-      <Button>Bokachoda</Button>
+      <Button>Subscribe to my youtube channel</Button>
     </div>
   );
 }
